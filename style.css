@@ -1,0 +1,55 @@
+body{
+	font-family: 'Roboto';
+	display: inline;
+	font-weight: 100;
+	background-color: #56351E;
+	text-align: center;
+}
+button{
+	font-family: 'Roboto';
+	font-weight: 400;
+	background-color: #FFFFFF;
+	border:none;
+	width: 65px;
+	height: 50px;
+	color: #f19953;
+	margin-top: 10px;
+	border-radius:2px;
+	font-size: 20px;
+}
+.name{
+	margin-top: 10px;
+	color: #F19953;
+	font-weight: 500;
+	text-align: center;
+	font-size: 20px;
+}
+.txtbox{
+	border:none;
+	margin-top: 15px;
+	margin-bottom: -5px;
+	width: 210px;
+	background-color: #F19953;
+	border-radius:5px;
+	height: 40px;
+	width: 275px;
+	text-align: right;
+	font-weight: 300;
+	font-size: 20px;
+}
+.calcy{
+	/*margin: 0 auto;*/
+	margin-top: 50px;
+	padding-top: 5px;
+	background-color: #C47335;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	border-radius: 10px;
+}
+.buttons{
+	width: 275px;
+  	text-align: center;
+  	margin:10px auto;
+  	margin-top:15px;
+}
